@@ -4,11 +4,11 @@
 
 --------
 
-This RoadMap is Created by [Alikhll (Ali Khalili)](https://github.com/Alikhll)  and translated by [BON](https://github.com/Quorafind)，the original repositoriy is [Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) 
+This RoadMap is Created by [Alikhll (Ali Khalili)](https://github.com/Alikhll)  and Translated by [BON](https://github.com/Quorafind), the original repositoriy is [Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) .
 
-该路线图由 [Alikhll (Ali Khalili)](https://github.com/Alikhll)  制作，由 [BON](https://github.com/Quorafind) 翻译为中文。原仓库链接为： [Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) 
+该路线图由 [Alikhll (Ali Khalili)](https://github.com/Alikhll)  制作，由 [BON](https://github.com/Quorafind) 翻译为中文。原仓库链接为： [Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) 。
 
-该仓库遵守与原仓库相同的 **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)** 协议
+该仓库遵守与原仓库相同的 **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)** 协议。
 
 ------
 
@@ -16,7 +16,7 @@ This RoadMap is Created by [Alikhll (Ali Khalili)](https://github.com/Alikhll)  
 
 ## **免责声明**
 
-> 本路线图的目的是让您了解大致的学习内容。如果路线图会在您对接下来要学习的内容感到困惑的时候给您适当的指导，但这绝不是鼓励您选择时髦的东西。你应该逐渐理解为什么一个工具比另一个工具更适合某些情况，并且记住，时髦的东西不一定最适合某个情况
+> 本路线图的目的是让您了解大致的学习内容。路线图会在您对接下来要学习什么感到困惑的时候给您适当的指导，而不是让您选择时髦的东西。你应该逐渐了解为什么一个工具比另一个工具更适合某些情况。记住，时髦的东西不一定最适合某个情况
 
 ## 给我一个 Star！ :star:
 
