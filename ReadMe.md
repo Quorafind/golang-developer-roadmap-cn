@@ -2,11 +2,17 @@
 
 > 在 2019 成为一名 [Go](https://golang.org/) 开发者的路线图：
 
+--------
+
+This RoadMap is Created by [Alikhll (Ali Khalili)](https://github.com/Alikhll)  and Translated by [BON](https://github.com/Quorafind), the original repositoriy is [Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) .
+
+该路线图由 [Alikhll (Ali Khalili)](https://github.com/Alikhll)  制作，由 [BON](https://github.com/Quorafind) 翻译为中文。原仓库链接为： [Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) 。
+
+该仓库遵守与原仓库相同的 **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)** 协议。
+
 ------
 
 在下边有一个图表，如果你想要成为一名 Go 的开发者的话，里面记录了一条成长路线以及一些你也许可以用得上的库。这是我为每一个想要问我：”我该怎么才能成为 Go 的开发者？“的人而准备的。
-
-[English](../ReadMe.md)
 
 ## **免责声明**
 
@@ -18,7 +24,7 @@
 
 ## 路线图
 
-![Roadmap](./golang-developer-roadmap-zh-CN.png)
+![Roadmap](./golang-developer-roadmap.png)
 
 ## 资源
 
@@ -159,7 +165,7 @@
 
 ## 贡献
 
-这个路线图是用 [Draw.io](https://www.draw.io/) 做的。项目文件为该仓库下的 `golang-developer-roadmap-zh-CN.xml` 文件。 您如果想要修改它，您可以进入 [Draw.io](https://www.draw.io/) 点击打开已有图表并且选择这个 `xml` 文件。它会为您打开这个路线图。改进它，并且上传，以及更新该 ReadMe 中的对应图片，然后提交 PR（以 400% 的缩放导出 PNG 以及使用 [Compressor.io](https://compressor.io/compress) 来压缩它）。
+这个路线图是用 [Draw.io](https://www.draw.io/) 做的。项目文件为该仓库下的 `golang-developer-roadmap.xml` 文件。 您如果想要修改它，您可以进入 [Draw.io](https://www.draw.io/) 点击打开已有图表并且选择这个 `xml` 文件。它会为您打开这个路线图。改进它，并且上传，以及更新该 ReadMe 中的对应图片，然后提交 PR（以 400% 的缩放导出 PNG 以及使用 [Compressor.io](https://compressor.io/compress) 来压缩它）。
 
 - 用 PR 提交改进
 - 在 Issue 中交流想法
